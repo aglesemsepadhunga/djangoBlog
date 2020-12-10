@@ -130,3 +130,6 @@ STATICFILES_DIRS = (
 # addres of uploaded media including pics
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR,'media')
+
+
+#added for hosting, was working well before appending these
